@@ -1,5 +1,7 @@
 {
-  "itemGroup.magiclayer": "Example Mod Tab",
-  "block.magiclayer.example_block": "Example Block",
-  "item.magiclayer.example_item": "Example Item"
+  "itemGroup.magiclayer": "Magic Layer",
+  "block.magiclayer.writing_desk": "Writing Desk",
+  "block.magiclayer.charger": "Aural Focus",
+  "item.magiclayer.basic_wand": "Basic Wand",
+  "item.magiclayer.basic_pendant": "Crystal Pendant"
 }
